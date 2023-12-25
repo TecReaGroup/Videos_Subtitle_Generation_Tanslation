@@ -1,0 +1,9 @@
+一条视频大概
+
+
+whisper
+	pytorch
+openai
+
+ffmpeg
+

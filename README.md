@@ -76,12 +76,12 @@ It seems too much, so the best choice is review the code, and install libraries 
 
 * For efficiency, it is best to use a graphics card.
 * Somewhere of the code is redundant, so there is still have space to enhance.
-  * Especially the IO oprations like when perform ffmpeg generation and srt tanslation.
+  * Especially the IO operations like when perform ffmpeg generation and srt tanslation.
 
 ## Demo sample
 
 initial video：
-<iframe width="560" height="315" src="https://www.youtube.com/embed/92boYNpcP74?si=W-gZ26n7OkC9-7oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/92boYNpcP74?si=cfnZitB7j80mWXkT
 
 subtitled video：
-<iframe src="//player.bilibili.com/player.html?aid=750355818&bvid=BV1GC4y1T7Zf&cid=1381722513&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1GC4y1T7Zf/?spm_id_from=333.999.0.0&vd_source=caae9647ee390689463b8d0c8037e561

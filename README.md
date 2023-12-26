@@ -2,14 +2,14 @@
 
 If this repository could help you, it would be my honour.<br />
 If you think this project is okay, please star this repository.<br />
-Wish all the best<br />
+Wish all the best.<br />
 
 # Preface
 
 ## Support 
 
 Language: Tanslate the English to Chinese, then generate bilingual subtitles<br />
-(It's easy to support more language in your hands)<br />
+(It's easy to support more language in your hands).<br />
 
 System: Windows<br />
 

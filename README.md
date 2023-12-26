@@ -1,6 +1,8 @@
 # Videos_Subtitle_Generation_Tanslation
 
-If you think this project is okay, please star this repository. That would be my honour.<br />
+If this repository could help you, it would be my honour.<br />
+If you think this project is okay, please star this repository.<br />
+Wish all the best<br />
 
 # Preface
 
